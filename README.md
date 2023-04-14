@@ -1,2 +1,2 @@
-# Automatic-number-plate-recognition-ANPR
+# Automatic Nmber Plate Recognition (ANPR)
 This ANPR project utilizes machine learning and computer vision techniques to accurately recognize and extract license plate information from images or video feeds. The system includes modules for plate detection, segmentation, character recognition, and plate database management. The project aims to provide a reliable and efficient solution for automatic number plate recognition in various applications such as parking management, toll collection, and law enforcement.
